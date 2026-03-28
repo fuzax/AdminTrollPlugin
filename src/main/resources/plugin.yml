@@ -1,0 +1,9 @@
+name: AdminTrollPlugin
+version: 1.0.0
+author: fuzax
+description: A plugin for trolling in Minecraft.
+main: io.fuzax.AdminTrollPlugin
+commands:
+  troll:
+    description: Troll a player.
+    usage: /troll <player>
